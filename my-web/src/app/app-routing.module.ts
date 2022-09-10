@@ -7,7 +7,7 @@ import { Service2Component } from './body/service2/service2.component';
 import { ServicesComponent } from './body/services/services.component';
 
 const routes: Routes = [
-  {path: '', component:BodyyComponent},
+  {path: '', component: BodyyComponent},
 {path: 'service', component: ServicesComponent},
 {path: 'home', component: BodyyComponent},
 {path: 'service2', component: Service2Component},
